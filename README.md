@@ -1,7 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+%26+High-Performance+Web+Apps;Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
+  <!-- Dynamic Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=DarkMooN-SYS&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%"/>
+  
+  <!-- Typing SVG Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+%26+High-Performance+Web+Apps;Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
+<br/>
+
+<!-- Glowing Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a000-a425-11eb-88a3-204b9012f618.gif" width="100%">
 <br/>
 
 ### 🚀 About Me
