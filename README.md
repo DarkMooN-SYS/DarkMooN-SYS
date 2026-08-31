@@ -11,7 +11,7 @@ Full Stack Software Engineer based in Mongolia 🇲🇳 specializing in architec
 - 🛠️ **Engineering Focus:** Modern JavaScript/TypeScript ecosystem, system architecture, database optimization, and performance.
 - 📐 **Clean Code & Practices:** RESTful API Design, MVC/Clean Architecture, CI/CD workflows, and Test-Driven Development (TDD).
 - 💼 **Open To:** Full-stack roles, technical consulting, and production-grade project collaborations.
-- 📫 **Contact Direct:** [liesbolllr123456@gmail.com](mailto:liesbolllr123456@gmail.com)
+- 📫 **Contact Direct:** [puntsagluvsan3@gmail.com](mailto:puntsagluvsan3@gmail.com)
 
 ---
 
